@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/E-commerce_freshcart/static/css/main.05bd77cb.css",
+    "main.js": "/E-commerce_freshcart/static/js/main.a3cc9628.js",
+    "static/js/787.46493d11.chunk.js": "/E-commerce_freshcart/static/js/787.46493d11.chunk.js",
+    "static/media/3-6.png": "/E-commerce_freshcart/static/media/3-6.98cc4775904c4dfec91d.png",
+    "static/media/fa-solid-900.ttf": "/E-commerce_freshcart/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/1-1.png": "/E-commerce_freshcart/static/media/1-1.d8a14ddd92c6643a3aeb.png",
+    "static/media/fa-brands-400.ttf": "/E-commerce_freshcart/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/E-commerce_freshcart/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/E-commerce_freshcart/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/2-2.png": "/E-commerce_freshcart/static/media/2-2.39a8bd5ecc65b45269e5.png",
+    "static/media/fa-regular-400.ttf": "/E-commerce_freshcart/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/E-commerce_freshcart/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/freshcart-logo.svg": "/E-commerce_freshcart/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.ttf": "/E-commerce_freshcart/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/E-commerce_freshcart/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/E-commerce_freshcart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/E-commerce_freshcart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/E-commerce_freshcart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/E-commerce_freshcart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/E-commerce_freshcart/index.html",
+    "main.05bd77cb.css.map": "/E-commerce_freshcart/static/css/main.05bd77cb.css.map",
+    "main.a3cc9628.js.map": "/E-commerce_freshcart/static/js/main.a3cc9628.js.map",
+    "787.46493d11.chunk.js.map": "/E-commerce_freshcart/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05bd77cb.css",
+    "static/js/main.a3cc9628.js"
+  ]
+}
